@@ -21,7 +21,7 @@ Order ID, Product, Quantity Ordered, Price Each, Order Date, Purchase Address
 
 ## Data Transformations
 1.	Convert all 12 CSV files into Excel format files.
-2.	Merge all 12 CSV files into one CSV file in SQL.
+2.	Merge all 12 CSV files into one CSV file (SQL)
 3.	Checked for Null Values: 898 rows were found and deleted (SQL)
 4.	Check for missing values: No missing values were identified (SQL)
 5.	Convert columns to the correct data type (SQL)
@@ -33,6 +33,8 @@ Order ID, Product, Quantity Ordered, Price Each, Order Date, Purchase Address
 11.	Created an average quantity sold per month measure. ( Power BI)
 12.	Added a time column. ( Power BI)
 
+- Find the SQL code in the file above: SQLQuery sales analysis
+  
 ![SQL Merge](https://github.com/EsabellB15/SALES-DATA-ANALYSIS/assets/123163220/24bf786a-2636-4a9c-8911-913ecd8963d6)
 
 ![Sales Data cleaning ](https://github.com/EsabellB15/SALES-DATA-ANALYSIS/assets/123163220/472779e9-9254-453b-a399-f28eefb14c8c)
