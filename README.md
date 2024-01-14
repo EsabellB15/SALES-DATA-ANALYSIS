@@ -1,4 +1,4 @@
-# SALES-DATA-ANALYSIS
+# Sales-Data-Analysis
 ![intro_image](https://github.com/EsabellB15/SALES-DATA-ANALYSIS/assets/123163220/6f2e6703-fe6b-4ec9-9333-b5d11553faad)
 
 ## Introduction
