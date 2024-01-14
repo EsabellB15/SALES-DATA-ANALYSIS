@@ -33,7 +33,7 @@ Order ID, Product, Quantity Ordered, Price Each, Order Date, Purchase Address
 11.	Created an average quantity sold per month measure. ( Power BI)
 12.	Added a time column. ( Power BI)
 
-- Find the SQL code in the file above: SQLQuery sales analysis
+- Find the SQL code in the file above: SQLQuery sales analysis.sql
   
 ![SQL Merge](https://github.com/EsabellB15/SALES-DATA-ANALYSIS/assets/123163220/24bf786a-2636-4a9c-8911-913ecd8963d6)
 
